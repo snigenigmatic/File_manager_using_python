@@ -18,3 +18,4 @@ Here are some of the project's best features:
 Technologies used in the project:
 
 *   Python
+![File_manager_using_python](https://socialify.git.ci/snigenigmatic/File_manager_using_python/image?language=1&owner=1&name=1&stargazers=1&theme=Light)

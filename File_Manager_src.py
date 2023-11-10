@@ -7,13 +7,13 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # List of Directories
-source_dir = "C:/Users/C Kaustubh/Downloads"
-dest_dir_sfx = "C:/Users/C Kaustubh/Downloads/SFX"
-dest_dir_music = "C:/Users/C Kaustubh/Downloads/Music"
-dest_dir_videos = "C:/Users/C Kaustubh/Downloads/Vids"
-dest_dir_images = "C:/Users/C Kaustubh/Downloads/Images"
-dest_dir_docs = "C:/Users/C Kaustubh/Downloads/Docs"
-dest_dir_executable = "C:/Users/C Kaustubh/Downloads/Installers"
+source_dir = ''
+dest_dir_sfx = ''
+dest_dir_music = ''
+dest_dir_videos = ''
+dest_dir_images =''
+dest_dir_docs = ''
+dest_dir_executable = ''
 
 # image extensions
 image_extensions = [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",

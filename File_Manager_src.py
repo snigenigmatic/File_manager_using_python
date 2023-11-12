@@ -7,7 +7,7 @@ from watchdog.events import FileSystemEventHandler
 import json
 
 # List of Directories
-# REplace directory addresses with one's created by you
+# Replace directory addresses with one's created by you
 source_dir = ""
 dest_dirs = {
     "SFX": "",

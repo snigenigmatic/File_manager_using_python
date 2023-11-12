@@ -26,7 +26,7 @@ file_extensions = {
     "Vids": {".webm", ".mpg", ".mp2", ".mpeg", ".mpe", ".mpv", ".ogg",
              ".mp4", ".mp4v", ".m4v", ".avi", ".wmv", ".mov", ".qt", ".flv", ".swf", ".avchd"},
     "Music": {".m4a", ".flac", "mp3", ".wav", ".wma", ".aac"},
-    "Docs": {".doc", ".docx", ".odt",".pdf"}
+    "Docs": {".doc", ".docx", ".odt",".pdf",".xlsx"}
 }
 
 # Pre-compute destination paths
